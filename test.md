@@ -1,5 +1,5 @@
 ---
-permalink: /test.html
+permalink: /test
 ---
 
 This is a test page.
