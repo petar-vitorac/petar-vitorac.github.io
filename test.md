@@ -4,4 +4,4 @@ title: Test page
 ---
 
 This is a test page.
-(mod1)
+(mod2)
