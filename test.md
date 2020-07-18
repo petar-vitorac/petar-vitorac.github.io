@@ -3,8 +3,9 @@ permalink: /test
 title: Test page
 ---
 
-This is a test page.
-(mod3)
-
-
-<script>alert(1);</script>
+<html>
+	<body>
+		This is an html file. This is <b>bold</b>.
+		Here is <a href="https://www.github.com">link</a> to github.
+	</body>
+</html>
