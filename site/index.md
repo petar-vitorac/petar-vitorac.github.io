@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Home"
 ---
 # Welcome!
 Welcome to my site! You can find various projects of mine that I'm hosting on this site.
