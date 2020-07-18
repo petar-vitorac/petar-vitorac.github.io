@@ -4,7 +4,7 @@ title: Test page
 ---
 
 This is a test page.
-(mod2)
+(mod3)
 
 
-<b> Bold text! </b>
+<script>alert(1);</script>
