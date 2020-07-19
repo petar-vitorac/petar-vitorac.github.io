@@ -3,7 +3,6 @@ permalink: /projects/spambot/
 title: SpamBot
 ---
 # SpamBot
-*Note: this project doesn't belong to a GitHub repository.*
 ## Brief description
 VBS script to simulate keystrokes at high speed.
 ## Source code
