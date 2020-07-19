@@ -7,7 +7,7 @@ title: SpamBot
 ## Brief description
 VBS script to simulate keystrokes at high speed.
 ## Source code
-You can find the source code [here](https://github.com/petar-vitorac/petar-vitorac.github.io/blob/master/download/SpamBot.vbs){:target="_blank" rel="noopener"}.
+You can find the source code [here](https://petar-vitorac.github.io/download/SpamBot.vbs){:target="_blank" rel="noopener"}.
 ## Customisation
 Modify the following lines:
 ```vbs
