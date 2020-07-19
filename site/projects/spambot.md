@@ -24,3 +24,5 @@ text="{INSERT TEXT TO BE TYPED}"
 Run the file. After 3 seconds, the keystrokes will begin.
 
 **CAREFUL! Once the script is started, there is no way to stop it other than killing it in the task manger (which can sometimes be difficult to do while keys are spammed).**
+
+## [Return to projects](/projects/)
