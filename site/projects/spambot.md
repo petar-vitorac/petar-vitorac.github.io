@@ -11,15 +11,15 @@ You can find the source code [here](https://github.com/petar-vitorac/petar-vitor
 ## Customisation
 Modify the following lines:
 ```vbs
-times={INSERT NUMBER OF REPETITIONS}
+times=[INSERT NUMBER OF REPETITIONS]
 ```
 
 ```vbs
-waiting={INSERT DELAY BETWEEN REPETITIONS (in ms)}
+waiting=[INSERT DELAY BETWEEN REPETITIONS (in ms)]
 ```
 
 ```vbs
-text="{INSERT TEXT TO BE TYPED}"
+text="[INSERT TEXT TO BE TYPED]"
 ```
 ## Use
 Run the file. After 3 seconds, the keystrokes will begin.
