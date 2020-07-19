@@ -4,7 +4,7 @@ Dim x
 x=0
 
 Dim times
-times=10
+times=0
 
 Dim waiting
 waiting=50
