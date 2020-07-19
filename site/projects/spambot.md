@@ -6,31 +6,7 @@ title: SpamBot
 ## Brief description
 VBS script to simulate keystrokes at high speed.
 ## Source code
-Download it [here](https://raw.githubusercontent.com/petar-vitorac/petar-vitorac.github.io/master/download/SpamBot.vbs){:target="_blank" rel="noopener"}.
-```vbs
-Set wshshell = wscript.createobject("wscript.shell")
-
-Dim x
-x=0
-
-Dim times
-times=10
-
-Dim waiting
-waiting=50
-
-Dim text
-text="This text will be typed."
-
-wscript.sleep 3000
-
-Do While x<times
-wscript.sleep waiting
-wshshell.sendkeys text
-wshshell.sendkeys "{ENTER}"
-x=x+1
-Loop
-```
+You can find the source code [here](https://github.com/petar-vitorac/petar-vitorac.github.io/blob/master/download/SpamBot.vbs){:target="_blank" rel="noopener"}.
 ## Customisation
 Modify the following lines:
 ```vbs
