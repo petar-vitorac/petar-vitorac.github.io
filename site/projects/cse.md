@@ -10,6 +10,8 @@ Customized search engines for certain specialized domains.
   * Use when looking up things related to Python programming. Helps filter your search results.
 * [C++ search engine](https://cse.google.com/cse?cx=014265952760640315174:qw3dbnbqvlr){:target="_blank" rel="noopener"}
   * Use when looking up things related to C++ programming. Helps filter your search results.
+* [Javascript search engine](https://cse.google.com/cse?cx=72027b1878dd119a5){:target="_blank" rel="noopener"}
+  * Use when looking up things related to Javascript programming. Helps filter your search results.
   
 ## Usage
 Click on the engine you want to use and just treat it as a normal Google search. Results should be more targeted though!
