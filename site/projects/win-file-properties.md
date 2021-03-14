@@ -8,7 +8,10 @@ How to edit creation time, last edit or last access time of a file on Windows 10
 
 ## Steps to reproduce
 * Open "Windows PowerShell" (start menu -> search "Windows PowerShell")
-* Type `Set-ItemProperty -Path [PATH] -Name [PROPERTY] -Value (Get-Date -Year [YEAR] -Month [MONTH] -Day [DAY] -Hour [HOUR] -Minute [MINUTE] -Second [SECOND])`
+* Type the following and presse enter
+```
+Set-ItemProperty -Path [PATH] -Name [PROPERTY] -Value (Get-Date -Year [YEAR] -Month [MONTH] -Day [DAY] -Hour [HOUR] -Minute [MINUTE] -Second [SECOND])
+```
   * Where `[PATH]` should be replaced by the full path of the file of which you want to modify the properties. Example: `"C:\Users\User1\file.txt"`
     * Warning: don't forget to include quotes (`"`) around the path!
     * Note: the full path of a file can be obtained by navigating to the file in the file explorer, right-click on the file while holding SHIFT, and left-click on "Copy as path"
